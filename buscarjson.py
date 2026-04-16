@@ -11,7 +11,7 @@ import datetime
 username = "optica.nueva.imagensv@gmail.com"
 password = "cdmy iyyg txqk ertd"
 imap_url = "imap.gmail.com"
-output_dir = "C:/phytonmailjson"
+output_dir = "C:/generardor_impuestos"
 
 # Rango de fechas (mes anterior completo)
 def get_previous_month_range():

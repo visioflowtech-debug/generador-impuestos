@@ -5,8 +5,8 @@ import datetime
 import openpyxl
 
 # --- Configuración ---
-JSON_DIR = "C:/phytonmailjson/json"
-OUTPUT_DIR = "C:/phytonmailjson"
+JSON_DIR = "C:/output_dir/json"
+OUTPUT_DIR = "C:/output_dir"
 
 def get_output_filename():
     """Genera el nombre del archivo CSV con la fecha actual."""

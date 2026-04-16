@@ -5,8 +5,8 @@ import datetime
 import openpyxl
 
 # --- Configuración ---
-JSON_DIR = "C:/phytonmailjson/ventas"
-OUTPUT_DIR = "C:/phytonmailjson"
+JSON_DIR = "C:/output_dir/ventas"
+OUTPUT_DIR = "C:/output_dir"
 
 def get_output_filenames():
     """Genera nombres de archivos CSV y XLSX con la fecha actual."""
